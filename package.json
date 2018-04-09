@@ -5,8 +5,7 @@
   "scripts": {
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
-    "eject": "react-scripts-ts eject",
-    "storybook": "start-storybook -p 9001 -c .storybook"
+    "eject": "react-scripts-ts eject"
   },
   "dependencies": {
     "antd": "^3.4.1",
